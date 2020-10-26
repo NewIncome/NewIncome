@@ -12,6 +12,7 @@
 ```javascript
 const eliVillalejos = {
   lookingFor: "Remote Full-stack Dev" || "Front-end dev opportunities",
+  (available for hire)
   pronouns: ["he", "his", "J"],
   code: [JavaScript, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   mySql, postgresql],
@@ -27,6 +28,7 @@ const eliVillalejos = {
 
 ![Alfredo's github stats](https://github-readme-stats.vercel.app/api?username=newincome&show_icons=true&theme=radical)
 
+Please feel free to check my [Portfolio :books:](https://alfredo.tk/).
 <p align="center"> I'd <strong>enjoy</strong> to <em>hear</em> from <strong>you</strong>, if you <em>want</em> to <em>say</em> <strong>hi</strong>, <em>I'll</em> be <em>happy</em> to <em>meet</em> or be in <strong>contact</strong>.</p>
 <p align="center">Let's <em>code</em> some <strong>fun</strong> stuff!!</p>
 
