@@ -18,10 +18,10 @@
 ```
 **Coding Experience**
 ```console
-  * HTML/CSS      * Ruby on Rails 
-  * Bootstrap     * mySql
-  * Semantic UI   * postgresql
-  * JavaScript
+  * HTML/CSS      * Ruby + Ruby on Rails
+  * Bootstrap     * React & Redux
+  * Semantic UI   * PostgreSQL & MySQL
+  * JavaScript    * Jest & RSpec
 ```
 **Personal Interests**
 ```console
@@ -36,7 +36,7 @@
 
 ![Alfredo's github stats](https://github-readme-stats.vercel.app/api?username=newincome&show_icons=true&theme=radical)
 
-Please feel free to check my [Portfolio :books:](https://alfredo.tk/).
+Please feel free to check my [Portfolio :books:](https://alfredoc.me/).
 <p align="center"> I'd <strong>enjoy</strong> hearing from <strong>you</strong>. If you <em>want</em> to <em>say</em> <strong>hi</strong>, <em>I'll</em> be <em>happy</em> to <em>meet</em> or be in <strong>contact</strong>.</p>
 <p align="center">Let's <em>code</em> some <strong>fun</strong> stuff!!</p>
 
